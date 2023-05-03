@@ -86,4 +86,5 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    border-radius: 5px;
 }
